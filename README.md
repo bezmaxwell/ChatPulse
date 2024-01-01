@@ -1,12 +1,6 @@
 ## What is this repository for :question:
 #### Simple Application with one to one connectivity using Firebase Real time Database written in MVC,MVP and MVVM architecture to better understand the android coding patterns. Purpose of writing same application functionality with 3 different pattern is to show how single application can be developed using 3 different patterns(Mvc, Mvp, Mvvm) :relieved:.
 
-<br><br><br>
-
-<p align="center"><img src="https://github.com/bezmaxwell/ChatPulse/blob/master/Chatmvc - Java/chat.jpg" width="50%"><br>
-
-<br><br><br>
-
 ## Mvc (Model View Controller)   :part_alternation_mark: :heavy_check_mark: C
 Mvc is a clean approach in android putting views away from the controller. the controller is only responsible for updating models, once the model gets updated it can notify views and then the view can be updated using proper callbacks.
 Traditional MVC is where there is a
@@ -25,9 +19,6 @@ MVVM involves a data binding approach to make code short and reduce view handlin
 <br><br>
 <br><br>
 
-<img src="https://github.com/bezmaxwell/ChatPulse/blob/master/Chatmvc - Java/layer-1.png" width="150%"><br><br>
-<br><br>
-<img src="https://github.com/bezmaxwell/ChatPulse/blob/master/Chatmvc - Java/compare.png" width="150%"><br><br>
 ## Choice of correct architect
 :eyes:
 <br>
